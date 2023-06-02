@@ -9,7 +9,8 @@ const rl = readline.createInterface({
 
 //2. Initialisation de notre array
 
-let tasks = ["task1", "task2", "task3", "task4", "task5"];
+let tasks = ["HoOoOooo damn! I think I'm in hell", "Don't forget to breath.", "Wait ... Hmmm interesting!" , "Ho, but ... Hihaaaa! It wooooorks!", "Don't forget to thank your coach for discovering bliss in struggling! Have a nice we Diogo!"];
+
 
 
 //3. Création d'une fonction qui affichera notre liste de taches après que l'utilisateur ait opéré son action. Attention à la numérotation index >< numero de l'item!
